@@ -1,3 +1,5 @@
+# JavaScript 运行机制详解：再谈Event Loop
+
 ## 一、为什么JavaScript是单线程？
 JavaScript语言的一大特点就是单线程，也就是说，同一个时间只能做一件事。那么，为什么JavaScript不能有多个线程呢？这样能提高效率啊。
 
