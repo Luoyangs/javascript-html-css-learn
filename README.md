@@ -10,6 +10,8 @@
 
 3、[['1', '2', '3'].map(parseInt) 解析](https://github.com/Luoyangs/javascript-html-css-learn/blob/master/javascript/%5B'1'%2C%20'2'%2C%20'3'%5D.map(parseInt)%20%E8%A7%A3%E6%9E%90.md)
 
+4、[模拟实现JS的new操作符]()
+
 
 ## Vue
 1、[写 React / Vue 项目时为什么要在组件中写 key，其作用是什么](https://github.com/Luoyangs/javascript-html-css-learn/blob/master/vue/Vue%20%E9%A1%B9%E7%9B%AE%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E7%BB%84%E4%BB%B6%E4%B8%AD%E5%86%99%20key%EF%BC%8C%E5%85%B6%E4%BD%9C%E7%94%A8%E6%98%AF%E4%BB%80%E4%B9%88.md)
@@ -17,3 +19,9 @@
 
 ## 安全
 1、[XSS 和 CSRF]()
+
+
+## 性能
+1、[图片和视频的懒加载]()
+
+2、[九个Console命令，让js调试更简单]()
