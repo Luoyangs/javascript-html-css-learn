@@ -4,15 +4,29 @@
 > #### 好记性不如烂笔头，这里记下更多是为了之后复习，温故而知新。
 
 ## JS
+* [JavaScript 内存机制]()
+
 * [JavaScript 运行机制详解：再谈Event Loop](https://github.com/Luoyangs/javascript-html-css-learn/blob/master/javascript/JavaScript%20%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3%EF%BC%9A%E5%86%8D%E8%B0%88Event%20Loop.md)
 
 * [setTimeout的一些事儿](https://github.com/Luoyangs/javascript-html-css-learn/blob/master/javascript/setTimeout%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
 
 * [['1', '2', '3'].map(parseInt) 解析](https://github.com/Luoyangs/javascript-html-css-learn/blob/master/javascript/%5B'1'%2C%20'2'%2C%20'3'%5D.map(parseInt)%20%E8%A7%A3%E6%9E%90.md)
 
+* [JavaScript 浮点数陷阱及解法]()
+
 * [模拟实现JS的new操作符]()
 
 * [模拟实现JS的bind方法]()
+
+* [模拟实现JS的apply&call方法]()
+
+* [模拟实现 Symbol 类型]()
+
+* [instanceof 和 typeof 的实现原理]()
+
+* [JavaScript原型和继承]()
+
+* [ES6类以及继承的实现原理]()
 
 * [重学之JavaScript Array所有API全解密]()
 
